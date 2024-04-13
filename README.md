@@ -1,6 +1,6 @@
 Welcome to my Kingdom 👋
 
-<p align="right">
+<p align="left">
   <img src="assets/photo_2024-04-13_06-04-17 (2).jpg" alt="Alt text for image" width="100" height="100">
 </p>
 
